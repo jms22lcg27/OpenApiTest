@@ -6,6 +6,6 @@
 >  * Jupyter Notebook (Python3)
 >  * XML
 
-#### 결과📍
+#### <결과>🔻
 ![결과](https://user-images.githubusercontent.com/85046063/189018389-cd8478c6-1777-4b98-941a-daf2740bdd8e.png)
 ---------------------
